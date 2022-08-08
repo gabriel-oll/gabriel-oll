@@ -1,5 +1,7 @@
-# SOBRE MIM:
-Olá a todos me chamo Fernando Gabriel e sou um desenvolvedor web com cerca de 1 ano de experiência, dentre esse período estudando acabei passando por diversos desafios para poder estudar e me desenvolver, como passo até hoje. Mas não desisto e continuo me desenvolvendo de cabeça erguida e em busca de uma oportunidade de crescimento!
+# ACESSE https://www.gabrieloll.com.br
+
+## SOBRE MIM:
+Olá pessoas, me chamo Fernando Gabriel e sou um desenvolvedor web com cerca de 1 ano de estudos, dentre esse período estudando acabei passando por diversos desafios para poder estudar e me desenvolver, como passo até hoje. Mas não desisto e continuo me desenvolvendo de cabeça erguida e em busca de uma oportunidade de crescimento!
 
 ## MINHA STACK:
 
